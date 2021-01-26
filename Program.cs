@@ -33,6 +33,7 @@ namespace FileWriteAndRead
                     Console.WriteLine("the content of the file is: ");
                     Console.WriteLine(sr.ReadToEnd());
                 }
+                
             }
             Console.ReadLine();
         }
